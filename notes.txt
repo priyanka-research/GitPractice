@@ -2,3 +2,11 @@ Hello Git
 This is text file
 i created this files.
 whats, up!!
+
+My Git Learning Notes
+
+1. Git is a version control system.
+2. GitHub hosts Git repositories.
+3. git init creates a repository.
+4. git add stages files.
+5. git commit creates a snapshot.
