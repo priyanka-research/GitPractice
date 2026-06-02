@@ -1,0 +1,4 @@
+Hello Git
+This is text file
+i created this files.
+whats, up!!
