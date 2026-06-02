@@ -9,3 +9,5 @@ My Git Learning Notes
 2. GitHub hosts Git repositories.
 3. git init creates a repository.
 5. git commit creates a snapshot.
+
+This change is only done in redesign tab and not in any other.
